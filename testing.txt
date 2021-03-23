@@ -1,0 +1,25 @@
+cd ..
+pause
+clr
+pause
+dir
+pause
+environ
+pause
+echo ready
+dir > a.txt
+environ >> a.txt
+sort a.txt > b.txt
+echo < b.txt > c.txt
+ls | wl-c
+pause
+help
+pause
+help cd
+pause
+help environ >> c.txt
+sort c.txt
+pause
+echo Thank you for coming!
+
+

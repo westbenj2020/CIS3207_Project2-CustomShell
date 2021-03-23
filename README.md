@@ -1,0 +1,2 @@
+# CIS3207_Project2-CustomShell
+This project attempts to create a custom, Linux type shell via the utilization of both built-in and external commands; the aforementioned commands may be executed with a diverse set of operators which can typically be found in a Linux shell, however, the number of arguments able to currently be passed to these various operators is reduced in comparison to a standard shell.
